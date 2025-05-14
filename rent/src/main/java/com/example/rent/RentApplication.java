@@ -9,8 +9,5 @@ public class RentApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RentApplication.class, args);
 	}
-	
-	car = new Car("Renault", 200);
-	cars.add(car);
 
 }
