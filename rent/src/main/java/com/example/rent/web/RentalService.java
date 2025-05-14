@@ -19,7 +19,6 @@ public class RentalService {
         cars.add(car);
         car = new Car("Porsche", 2000);
         cars.add(car);
-     
     }
 
     @GetMapping("/bonjour")
